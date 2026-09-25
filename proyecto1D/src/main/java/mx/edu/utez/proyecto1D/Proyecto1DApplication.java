@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("/fizzbuzz&fibonacci")
+@RequestMapping("/fizzbuzzyfibonacci")
 public class Proyecto1DApplication {
 
 	public static void main(String[] args) {
